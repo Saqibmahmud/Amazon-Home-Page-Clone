@@ -19,7 +19,7 @@ display: flex;
     margin-left: 10px;
     height: 50px;
     width: 110px;
-    background-image:url("/Amazon-Logo-Font-1-scaled.png");
+    background-image:url("Amazon-Logo-Font-1-scaled.png");
     background-size: cover;
     display: inline-block;
 }
@@ -132,7 +132,7 @@ select{
 #bd_fla{
     height:24px ;
     width: 30px; 
-    background-image: url("/BD logo.png");
+    background-image: url("BD logo.png");
     background-size:cover ;
 }
 
@@ -259,7 +259,7 @@ background-size: cover;
 #box1pic{
     height: 280px;
     width: 270px ;
-  background-image: url("/PC.jpg");
+  background-image: url("PC.jpg");
   background-size: cover ;
 
 }
@@ -280,7 +280,7 @@ background-size: cover;
 #box4pic{
     height: 280px;
     width: 270px ;
-    background-image: url("/toys.jpg");
+    background-image: url("toys.jpg");
     background-size: cover ;
     
 }
@@ -302,14 +302,14 @@ background-size: cover;
 #box7pic{
     height: 280px;
     width: 270px ;
-    background-image: url("/refresh.webp");
+    background-image: url("refresh.webp");
     background-size: cover ;
     
 }
 #box8pic{
     height: 280px;
     width: 270px ;
-    background-image: url("/fashion.webp");
+    background-image: url("fashion.webp");
     background-size: cover ;
     
 }
