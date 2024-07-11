@@ -221,7 +221,7 @@ a{ margin-left: 20px;
 
 .hero_section{
     height: 400px;
-background-image: url("Hero\ section.jpg");
+background-image: url("Hero section.jpg");
 background-size: cover;
 
 }
@@ -266,14 +266,14 @@ background-size: cover;
 #box2pic{
     height: 280px;
     width: 270px ;
-    background-image: url("small\ gift.jpg");
+    background-image: url("small gift.jpg");
     background-size: cover ;
     
 }
 #box3pic{
     height: 280px;
     width: 270px ;
-    background-image: url("beauty\ deal.jpg");
+    background-image: url("beauty deal.jpg");
     background-size: cover ;
     
 }
@@ -288,14 +288,14 @@ background-size: cover;
 #box5pic{
     height: 280px;
     width: 270px ;
-  background-image: url("Holiday\ deal\ in\ fashion.jpg");
+  background-image: url("Holiday deal in fashion.jpg");
   background-size: cover ;
 
 }
 #box6pic{
     height: 280px;
     width: 270px ;
-    background-image: url("easy\ update.jpg");
+    background-image: url("easy update.jpg");
     background-size: cover ;
     
 }
